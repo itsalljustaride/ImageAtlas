@@ -1,0 +1,15 @@
+body.image-atlas #content {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#browsenav {
+	z-index: 100;
+}
+
+#map3d {
+	width: 100%;
+	height: 650px;
+	display: block;
+	z-index: 0;
+}
