@@ -1,0 +1,1 @@
+An Omeka plugin that uses the Geolocation data to display a Google Earth interface with items as points.
